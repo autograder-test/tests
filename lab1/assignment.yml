@@ -1,6 +1,6 @@
 assignmentid: 1
 name: "lab1"
-language: "go"
+language: "rust"
 deadline: "24-01-2019T14:00"
 autoapprove: false
 isgrouplab: false
