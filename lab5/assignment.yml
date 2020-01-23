@@ -1,6 +1,6 @@
 assignmentid: 5
 name: "lab5"
-language: "go"
+language: "json"
 deadline: "28-02-2019T23:00"
 autoapprove: false
 isgrouplab: true
