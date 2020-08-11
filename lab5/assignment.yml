@@ -1,6 +1,6 @@
 assignmentid: 5
 name: "lab5"
-language: "json"
+scriptfile: "json.sh"
 deadline: "28-02-2019T23:00"
 autoapprove: false
 isgrouplab: true

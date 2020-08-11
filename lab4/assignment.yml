@@ -1,6 +1,6 @@
 assignmentid: 4
 name: "lab4"
-language: "go"
+scriptfile: "go.sh"
 deadline: "07-03-2019T23:00"
 autoapprove: false
 isgrouplab: true
